@@ -1,0 +1,49 @@
+body {
+    background-color: #E4FDE1;
+    color: #F45B69;
+}
+
+.presentation {
+    height: 400px;
+}
+
+.nom {
+    text-align: center;
+    margin-top: 200px;
+    font-size: 4em;
+    font-family: 'Presentation', sans-serif !important;
+}
+
+.mission {
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Presentation', sans-serif !important;
+}
+
+@font-face {
+    font-family: "Presentation";
+    src: url('ostrich-sans/ostrich-regular.ttf');
+}
+
+.block {
+    margin: 5px;
+    background-color: #028090;
+}
+
+.realisation {
+    height: 200px;
+    margin: 5px;
+    outline: 1px solid #F45B69;
+}
+
+
+/*
+ * http://www.webhostingsecretrevealed.net/blog/web-design/20-best-personal-websites-in-2013/
+ * http://www.fontsquirrel.com/fonts/ostrich-sans
+ * 114B5F
+ * 028090
+ * E4FDE1
+ * 456990
+ * F45B69
+ * https://coolors.co/app/114b5f-028090-e4fde1-456990-f45b69
+ */
