@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Presentation";
+    src: url('ostrich-sans/ostrich-regular.ttf');
+}
+
 body {
     background-color: #E4FDE1;
     color: #F45B69;
@@ -7,22 +12,21 @@ body {
     height: 400px;
 }
 
-.nom {
+.title {
     text-align: center;
+    margin: 0px;
     margin-top: 200px;
-    font-size: 4em;
+    font-size: 4rem;
     font-family: 'Presentation', sans-serif !important;
+    font-weight: normal;
 }
 
 .mission {
     text-align: center;
-    font-size: 2em;
+    margin: 0px;
+    font-size: 2rem;
     font-family: 'Presentation', sans-serif !important;
-}
-
-@font-face {
-    font-family: "Presentation";
-    src: url('ostrich-sans/ostrich-regular.ttf');
+    font-weight: normal;
 }
 
 .block {
@@ -36,6 +40,13 @@ body {
     outline: 1px solid #F45B69;
 }
 
+.banniere {
+    padding: 5px 0;
+    background-color: #F45B69;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
 
 /*
  * http://www.webhostingsecretrevealed.net/blog/web-design/20-best-personal-websites-in-2013/
