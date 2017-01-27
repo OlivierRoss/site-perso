@@ -5,7 +5,7 @@
 
 body {
     background-color: #E4FDE1;
-    color: #456990;
+    color: #F45B69;
 }
 
 #presentation {
@@ -58,7 +58,7 @@ body {
 
 .banniere {
     padding: 5px 10px;
-    background-color: #456990;
+    background-color: #F45B69;
     text-align: left;
     color: white;
 }
@@ -87,7 +87,7 @@ ul {
 }
 
 a {
-    color: #456990;
+    color: #F45B69;
 }
 
 /*
@@ -98,5 +98,5 @@ a {
  * E4FDE1
  * 456990
  * F45B69
- * https://coolors.co/app/114b5f-028090-e4fde1-456990-f45b69
+ * https://coolors.co/app/114b5f-028090-e4fde1-F45B69-f45b69
  */
