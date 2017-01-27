@@ -8,34 +8,21 @@ body {
     color: #F45B69;
 }
 
-#competences {
-    display: block;
-    width: 100%;
-    margin: 0 auto;
-    margin-top: 30px;
-}
-
-#description {
-    display: block;
-    margin: 10px auto;
-}
-
-#contact, #bourses {
-    display: block;
-    margin: 10px auto;
+.presentation {
+    height: 400px;
 }
 
 .title {
-    text-align: left;
+    text-align: center;
     margin: 0px;
-    margin-top: 50px;
+    margin-top: 200px;
     font-size: 4rem;
     font-family: 'Presentation', sans-serif !important;
     font-weight: normal;
 }
 
 .mission {
-    text-align: left;
+    text-align: center;
     margin: 0px;
     font-size: 2rem;
     font-family: 'Presentation', sans-serif !important;
@@ -48,41 +35,17 @@ body {
 }
 
 .realisation {
-
+    height: 200px;
+    margin: 5px;
+    outline: 1px solid #F45B69;
 }
 
 .banniere {
-    padding: 5px 10px;
+    padding: 5px 0;
     background-color: #F45B69;
-    text-align: left;
+    text-align: center;
+    width: 100%;
     color: white;
-}
-
-.contenu {
-    padding: 10px;
-}
-
-.element {
-    padding: 2px 0px;
-    margin: 2px auto;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0px;
-}
-
-#formation p {
-    padding: 0px;
-    margin: 3px auto;
-}
-
-#formation li, #bourses li {
-    margin: 20px auto;
-}
-
-a {
-    color: #F45B69;
 }
 
 /*
