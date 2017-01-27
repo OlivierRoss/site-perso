@@ -5,7 +5,11 @@
 
 body {
     background-color: #E4FDE1;
-    color: #F45B69;
+    color: #456990;
+}
+
+#presentation {
+    padding: 5px;
 }
 
 #competences {
@@ -53,7 +57,7 @@ body {
 
 .banniere {
     padding: 5px 10px;
-    background-color: #F45B69;
+    background-color: #456990;
     text-align: left;
     color: white;
 }
@@ -82,7 +86,7 @@ ul {
 }
 
 a {
-    color: #F45B69;
+    color: #456990;
 }
 
 /*
